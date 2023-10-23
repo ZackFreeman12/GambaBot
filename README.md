@@ -1,5 +1,5 @@
 # Gamba
-
+!(https://i.imgur.com/6i6kWTF.png)
 ## Description
 Gamba is a discord bot created to play gambling games in a discord server.
 Currently deployed in multiple discord servers!
