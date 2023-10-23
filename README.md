@@ -4,7 +4,7 @@
 Gamba is a discord bot created to play gambling games in a discord server.
 Currently deployed in multiple discord servers!
 
-![Discord screenshot](https://i.imgur.com/SRKSD4n.png)
+![Discord screenshot](https://i.imgur.com/GMHrUgH.png)
 
 ## Tech Stack
 Gamba uses the Discord.js library in Node.js to connect to the Discord client.
